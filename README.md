@@ -1,5 +1,13 @@
 # 💫 About Me:
 I'm currently working on a Smart Bell application<br>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/srujanGowda08"
+    width="600"
+    height="120"
+  />
+</a>
+ 
 
 
 ## 🌐 Socials:
